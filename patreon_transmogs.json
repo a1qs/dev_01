@@ -1,0 +1,20 @@
+{
+  "PATREON_TRANSMOGS": [
+    {
+      "uuid": "example-uuid",
+      "transmogs": [
+        "the_vault:unlock_transmog",
+        "the_vault:unlock_transmog_2",
+        "the_vault:unlock_transmog_3"
+      ]
+    },
+    {
+      "uuid": "example_uuid_2",
+      "transmogs": [
+        "the_vault:unlock_transmog",
+        "the_vault:unlock_transmog_2",
+        "the_vault:unlock_transmog_3"
+      ]
+    }
+  ]
+}
