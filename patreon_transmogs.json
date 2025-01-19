@@ -3,17 +3,19 @@
     {
       "uuid": "380df991-f603-344c-a090-369bad2a924a",
       "transmogs": [
-        "the_vault:unlock_transmog",
-        "the_vault:unlock_transmog_2",
-        "the_vault:unlock_transmog_3"
+        "the_vault:gear/armor/bone_dragon/helmet",
+        "the_vault:gear/armor/bone_dragon/chestplate",
+        "the_vault:gear/armor/bone_dragon/leggings",
+        "the_vault:gear/armor/bone_dragon/boots",
       ]
     },
     {
       "uuid": "380df991-f603-344c-a090-369bad2a424a",
       "transmogs": [
-        "the_vault:unlock_transmog",
-        "the_vault:unlock_transmog_2",
-        "the_vault:unlock_transmog_3"
+        "the_vault:gear/armor/bone_dragon/helmet",
+        "the_vault:gear/armor/bone_dragon/chestplate",
+        "the_vault:gear/armor/bone_dragon/leggings",
+        "the_vault:gear/armor/bone_dragon/boots",
       ]
     }
   ]
